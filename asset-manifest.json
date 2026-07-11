@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cardy/static/css/main.e6c13ad2.css",
+    "main.js": "/cardy/static/js/main.b6bc647f.js",
+    "static/js/453.604c2ced.chunk.js": "/cardy/static/js/453.604c2ced.chunk.js",
+    "index.html": "/cardy/index.html",
+    "main.e6c13ad2.css.map": "/cardy/static/css/main.e6c13ad2.css.map",
+    "main.b6bc647f.js.map": "/cardy/static/js/main.b6bc647f.js.map",
+    "453.604c2ced.chunk.js.map": "/cardy/static/js/453.604c2ced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b6bc647f.js"
+  ]
+}
